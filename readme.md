@@ -18,4 +18,4 @@ It organizes files in a specified folder based on their extensions, creating sep
 ## ⚡ How to Use
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/file-organizer.git
+   git clone https://github.com/Priyanshu0714/file-organizer.git
